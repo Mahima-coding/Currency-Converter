@@ -4,11 +4,12 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 # Preview
 
 
-Features
+# Features
 Converts between various currencies using real-time exchange rates.
 Updates flag images dynamically based on selected currencies.
 User-friendly interface.
-Usage
+
+# Usage
 Clone the repository:
 
 git clone <repository-url>
@@ -20,7 +21,7 @@ git clone <repository-url>
 
 5-The converted amount will be displayed instantly.
 
-APIs Used
+# APIs Used
 Currency API: Provides real-time currency exchange rates.
 
 Flags API: Provides flag images for different countries.
