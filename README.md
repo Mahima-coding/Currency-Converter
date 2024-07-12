@@ -15,7 +15,8 @@ User-friendly interface.
 # Usage
 1.Clone the repository:
 
-git clone <repository-url>
+git clone <repository-url>[Uploading Currency-Converter-main.zip…]()
+
 
 2- Open index.html in your web browser.
 
