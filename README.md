@@ -15,7 +15,7 @@ User-friendly interface.
 # Usage
 1.Clone the repository:
 
-git clone <repository-url>
+git clone <repository-url>https://github.com/Mahima-coding/Currency-Converter.git
 
 2- Open index.html in your web browser.
 
