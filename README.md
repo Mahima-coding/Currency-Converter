@@ -3,6 +3,7 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 
 # Preview
 
+![img](https://github.com/user-attachments/assets/ef01e965-ca7c-48ec-881f-051bc87e374d)
 
 # Features
 Converts between various currencies using real-time exchange rates.
