@@ -13,9 +13,10 @@ Updates flag images dynamically based on selected currencies.
 User-friendly interface.
 
 # Usage
-Clone the repository:
+1.Clone the repository:
 
 git clone <repository-url>
+
 2- Open index.html in your web browser.
 
 3-Select the base currency and target currency from the dropdown menus.
